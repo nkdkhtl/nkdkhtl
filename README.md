@@ -1,4 +1,4 @@
-<h1 align="center">Welcome</h1>
+<h1 align="left">Welcome</h1>
 
 ###
 
@@ -6,19 +6,16 @@
 
 ###
 
-<h2 align="center">About me</h2>
+<h2 align="left">About me</h2>
 
 ###
 
-<p align="center">✨ Creating bugs since 2019<br>📚 I'm currently learning Frontend<br>🎯 Goals: Fullstack Developer<br>🎲 Fun fact: I like sad song</p>
+<p align="left">✨ Creating bugs since 2019 <br> :pen: I'm studying at University of Transport and Communications <br>📚 I'm currently learning Frontend<br>🎯 Goals: Fullstack Developer<br>🎲 Fun fact: I like sad song</p>
 
 ###
+<h2 align="left">Web Development</h2>
 
-<h2 align="center">I code with</h2>
-
-###
-
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -27,12 +24,20 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
+<h2 align="left">Other Programming Languages I used to work with</h2>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
 
+###
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nkdkhtl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nkdkhtl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
