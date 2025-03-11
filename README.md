@@ -22,7 +22,7 @@
 <h2 align="left">Other Programming Languages I used to work with</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
   </a>
 </p>
 
