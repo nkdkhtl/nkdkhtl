@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=nkdkhtl)
+![](https://komarev.com/ghpvc/?username=nkdkhtl&style=for-the-badge&label=nk's_stalker&abbreviated=true&color=ff69b4)
 <h1 align="left">Welcome</h1>
 
 ###
