@@ -4,7 +4,8 @@
 ###
 
 <p align="left">My name is <b>Nam Khuc </b></p>
-<p align="left"> I'm currently a student in Information Technology at University of Transport and Communications (UTC) from Viet Nam</p>
+<p align="left">A 3rd-year student majoring in Information Technology at UTC</p>
+<p align="left">Vice Head of the Web Division at SFIT (Student Faculty of IT)</p>
 
 ###
 
