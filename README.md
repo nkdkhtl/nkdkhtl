@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br> 🖋️My current CPA: 3.7/4.0 <br>📚 I'm currently learning Frontend & Backend<br>🎯 Goals: Fullstack Developer<br>🎲 Fun fact: I like sad song</p>
+<p align="left">✨ Creating bugs since 2019<br> 🖋️My current CPA: 3.76/4.0 <br>📚 I'm currently learning Frontend & Backend<br>🎯 Goals: Fullstack Developer<br>🎲 Fun fact: I like sad song</p>
 
 📄 My Portfolio: [namkhuc.id.vn](https://namkhuc.id.vn/)
 
