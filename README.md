@@ -5,7 +5,7 @@
 
 <p align="left">My name is <b>Nam Khuc </b></p>
 <p align="left">A 3rd-year student majoring in Information Technology at UTC</p>
-<p align="left">Head of the Web Department at SFIT (Student Faculty of IT)</p>
+<p align="left">Leader of the Web Department at SFIT (Student Faculty of IT)</p>
 
 ###
 
