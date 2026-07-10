@@ -21,7 +21,7 @@
 <h2 align="left">Web App Development</h2>
 <p align="left">
   <a href="https://skills.syvixor.com/api">
-    <img src="https://skills.syvixor.com/api/icons?i=html,css,bootstrap,tailwind,js,ts,react,next,vite,nodejs" />
+    <img src="https://skills.syvixor.com/api/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,vite,nodejs" />
   </a>
 </p>
 <h2 align="left">Other Programming Languages I used to work with</h2>
